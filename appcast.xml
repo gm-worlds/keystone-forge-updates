@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.1 (9)</title>
+            <pubDate>Sun, 13 Apr 2026 18:00:00 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in v1.1 (9)</h2>
+                <ul>
+                    <li><b>Fixed 4-shot FFF black export</b> — eagerly renders corrected output, not full 400MP input</li>
+                    <li><b>Color profile preserved</b> — reads ICC from source file (eciRGB, ProPhoto, etc.)</li>
+                    <li><b>Loupe always visible</b> — follows cursor during placement, refinement, and hovering</li>
+                    <li><b>Manual mode respected</b> — ML skipped when auto-detect is off</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/gm-worlds/keystone-forge-updates/releases/download/v1.1-9/Keystone.Forge.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="7EtMdS5PccxsPCHSfPyLumv9j596bddmpO8ymaNLUj5uqP9ghlqZzqE1Fy61QEWOG5YItKDp231k1iKx5iT9Aw=="
+                length="10187677"
+            />
+        </item>
+
+        <item>
             <title>Version 1.1 (8)</title>
             <pubDate>Sun, 13 Apr 2026 17:30:00 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
