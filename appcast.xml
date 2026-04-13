@@ -7,6 +7,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.1 (11)</title>
+            <pubDate>Sun, 13 Apr 2026 19:30:00 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in v1.1 (11)</h2>
+                <ul>
+                    <li><b>Fixed ML training on Intel</b> — numpy compatibility check + auto-reinstall</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/gm-worlds/keystone-forge-updates/releases/download/v1.1-11/Keystone.Forge.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="HD0gjIPDFnQZnbfqgsnqY4kM4qFS/5XvWSagFf959LUsBswYpZZaoVjVxxgTPGStU8nfG8C71uMdKSarMFEMDg=="
+                length="10194042"
+            />
+        </item>
+
+        <item>
             <title>Version 1.1 (10)</title>
             <pubDate>Sun, 13 Apr 2026 19:00:00 +0000</pubDate>
             <sparkle:version>10</sparkle:version>
