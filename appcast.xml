@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.1 (7)</title>
+            <pubDate>Sun, 13 Apr 2026 17:00:00 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in v1.1 (7)</h2>
+                <ul>
+                    <li><b>Export preserves color profile</b> — eciRGB, ProPhoto, and other ICC profiles are now kept in exported TIFFs</li>
+                    <li><b>Fixed black corrected preview</b> — no more black screens when previewing corrections on Intel</li>
+                    <li><b>Zoom loupe during manual placement</b> — magnifier follows your cursor while placing corners</li>
+                    <li><b>Removed debug overlay</b></li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/gm-worlds/keystone-forge-updates/releases/download/v1.1-7/Keystone.Forge.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="zBs6s6/4PQDP+VzT7iW02U+zrxkGzhEy61fks8di0n1+GzWPtUy2+E363dadkqImrMxVV3bC5wjI+6UCxDLBCQ=="
+                length="10177365"
+            />
+        </item>
+
+        <item>
             <title>Version 1.1 (6)</title>
             <pubDate>Sun, 13 Apr 2026 16:30:00 +0000</pubDate>
             <sparkle:version>6</sparkle:version>
