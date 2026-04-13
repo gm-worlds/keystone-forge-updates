@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.1 (12)</title>
+            <pubDate>Sun, 13 Apr 2026 20:00:00 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in v1.1 (12)</h2>
+                <ul>
+                    <li><b>Fixed 4-shot FFF black export</b> — eager render breaks lazy CIRAWFilter chain on Intel</li>
+                    <li><b>Color profile fix</b> — uses CIRAWFilter output color space for Hasselblad FFF</li>
+                    <li><b>Auto-crop in Minimal Crop</b> — automatically maximizes content (wall/background)</li>
+                    <li><b>Export via CGImageDestination</b> — explicit 16-bit TIFF with ICC profile</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/gm-worlds/keystone-forge-updates/releases/download/v1.1-12/Keystone.Forge.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="AbhSuChohgw28hN3YNutMQPhV4RH1DIAyahQdF0zGk1RwsOYJHJX1vYdz0g+v+Mq3vPrjDRAz5uieL6EUm2WCg=="
+                length="10197412"
+            />
+        </item>
+
+        <item>
             <title>Version 1.1 (11)</title>
             <pubDate>Sun, 13 Apr 2026 19:30:00 +0000</pubDate>
             <sparkle:version>11</sparkle:version>
