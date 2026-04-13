@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Keystone Forge Updates</title>
+        <link>https://gm-worlds.github.io/keystone-forge-updates/appcast.xml</link>
+        <description>Keystone Forge update feed</description>
+        <language>en</language>
+
+        <item>
+            <title>Version 1.1</title>
+            <pubDate>Sun, 13 Apr 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in v1.1</h2>
+                <ul>
+                    <li><b>FFF/RAW fix</b> — Hasselblad 16-bit RAW files now display correctly on Intel Macs (no more mosaics or black images)</li>
+                    <li><b>Reset button</b> — Clear bad ML detection and place corners manually</li>
+                    <li><b>Click-to-relocate</b> — Select a corner, click anywhere to move it</li>
+                    <li><b>Corner cycling</b> — Clustered corners cycle TL/TR/BR/BL on click</li>
+                    <li><b>Auto-updates</b> — Future updates install with one click (Check for Updates in app menu)</li>
+                    <li><b>Version display</b> — Version number shown in toolbar</li>
+                    <li><b>Changelog popup</b> — What's New shown on first launch after update</li>
+                    <li><b>Properly signed &amp; notarized</b> — No more Gatekeeper warnings</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://gm-worlds.github.io/keystone-forge-updates/releases/Keystone_Forge_1.1.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="ZqRa05MFBHmcthrjDKAQofMTF5cR3fY6e3qlHnW8mCczUsSQ6sDfDg+hcFTDonU28n1KsoutxQhdtiFQNux8Bw=="
+                length="10169908"
+            />
+        </item>
+
+    </channel>
+</rss>
