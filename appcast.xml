@@ -26,7 +26,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://gm-worlds.github.io/keystone-forge-updates/releases/Keystone_Forge_1.1.dmg"
+                url="https://github.com/gm-worlds/keystone-forge-updates/releases/download/v1.1/Keystone.Forge.dmg"
                 type="application/octet-stream"
                 sparkle:edSignature="ZqRa05MFBHmcthrjDKAQofMTF5cR3fY6e3qlHnW8mCczUsSQ6sDfDg+hcFTDonU28n1KsoutxQhdtiFQNux8Bw=="
                 length="10169908"
