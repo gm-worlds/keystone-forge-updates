@@ -11,10 +11,11 @@
             <pubDate>Sun, 13 Apr 2026 12:00:00 +0000</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New in v1.1</h2>
                 <ul>
+                    <li><b>macOS 13+ support</b> — Now runs on Intel Macs with macOS Ventura and later</li>
                     <li><b>FFF/RAW fix</b> — Hasselblad 16-bit RAW files now display correctly on Intel Macs (no more mosaics or black images)</li>
                     <li><b>Reset button</b> — Clear bad ML detection and place corners manually</li>
                     <li><b>Click-to-relocate</b> — Select a corner, click anywhere to move it</li>
@@ -28,8 +29,8 @@
             <enclosure
                 url="https://github.com/gm-worlds/keystone-forge-updates/releases/download/v1.1/Keystone.Forge.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="41PmNZ3sZFHiNfr8KpVrZ8rgBSKI2/qCBXB8zRDTXl8IQiA0wk9NbGTtVbFeyeDLMRDS4HEG3RrQ/MiRAF/fBA=="
-                length="10169959"
+                sparkle:edSignature="aHXaYdWW4gel5hA5nijX6BajwWKnnbUQveOhdDJSGv6Wr1k5K4F3FQkfuU+rIGKDKdhY+cLpkseCN8GE0pxHAg=="
+                length="10171127"
             />
         </item>
 
