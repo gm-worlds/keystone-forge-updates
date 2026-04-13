@@ -7,6 +7,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.1 (14)</title>
+            <pubDate>Sun, 13 Apr 2026 21:30:00 +0000</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in v1.1 (14)</h2>
+                <ul>
+                    <li><b>Export color space picker</b> — select eciRGB v2, Adobe RGB, ProPhoto, Display P3, or sRGB</li>
+                    <li><b>Auto-detects eciRGB</b> — searches system ColorSync profiles, Adobe profiles, and Phocus bundle</li>
+                    <li><b>Defaults to eciRGB</b> — if the ICC profile is installed on the system</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/gm-worlds/keystone-forge-updates/releases/download/v1.1-14/Keystone.Forge.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="+6tzCJXuVBhSbAcJIZ5e2aV5/oqG17CjfH9hb35UHU66PO8liKcIGZ5mwXsQm8aWh8YyHDqlur9dV4M9LDitAA=="
+                length="10221616"
+            />
+        </item>
+
+        <item>
             <title>Version 1.1 (13)</title>
             <pubDate>Sun, 13 Apr 2026 21:00:00 +0000</pubDate>
             <sparkle:version>13</sparkle:version>
