@@ -7,6 +7,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.1 (13)</title>
+            <pubDate>Sun, 13 Apr 2026 21:00:00 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in v1.1 (13)</h2>
+                <ul>
+                    <li><b>Fixed 4-shot FFF black export</b> — render(toBitmap:) fallback for 400MP+ images</li>
+                    <li><b>Hasselblad ICC profile</b> — reads profile name from FFF PLIST, loads from Phocus bundle</li>
+                    <li><b>Auto-crop in Minimal Crop</b> — automatically maximizes content (wall/background)</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/gm-worlds/keystone-forge-updates/releases/download/v1.1-13/Keystone.Forge.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="xHUvCvwse7pdBUh+6kudWtKWPtNpJIVEfXTkM7EPpMYxPAOtq3udNp4VcShrPY4MH7KI9Rb56CIy0Gs7ZKuyCw=="
+                length="10212825"
+            />
+        </item>
+
+        <item>
             <title>Version 1.1 (12)</title>
             <pubDate>Sun, 13 Apr 2026 20:00:00 +0000</pubDate>
             <sparkle:version>12</sparkle:version>
