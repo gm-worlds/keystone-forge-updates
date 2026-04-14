@@ -7,6 +7,27 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.1 (15)</title>
+            <pubDate>Mon, 14 Apr 2026 00:30:00 +0000</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in v1.1 (15)</h2>
+                <ul>
+                    <li><b>Wide-gamut render fallback</b> — eager render uses Display P3 instead of sRGB to prevent color clipping</li>
+                    <li><b>Better export color fidelity</b> — intermediate processing preserves full gamut before final color space conversion</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/gm-worlds/keystone-forge-updates/releases/download/v1.1-15/Keystone.Forge.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="wtHdzX/KxmcpZRtA5jmJlZw+6Pjfmg+H60uVNdi6rr7+Akd1PE6pSU3Tx6syv2guU3+/3s7lP08JoLRC1nwFDg=="
+                length="10221343"
+            />
+        </item>
+
+        <item>
             <title>Version 1.1 (14)</title>
             <pubDate>Sun, 13 Apr 2026 21:30:00 +0000</pubDate>
             <sparkle:version>14</sparkle:version>
